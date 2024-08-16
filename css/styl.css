@@ -1,0 +1,60 @@
+
+body{
+ font-family: Arial, Helvetica, sans-serif;
+  
+ background-image: none;
+}
+p{
+ display:block;
+ font-size: 32px;
+ font-size: 5vh;/*faire la taille en longueur */
+ font-size: 5vw;/*faire la taille en largeur */
+}
+span{
+ display: inline;
+}
+.card{background-color:rgb(45, 125, 205);
+    width: 1000px;
+    height: 450px;
+    border: 5px solid rgb(rgba(0, 76, 255, 0.427), green, blue);
+    border-radius:30px ;
+    margin: 16px; /* marge exterieur */
+    padding: 24px;/* */}
+
+
+.par{
+
+    width: 60px;
+
+
+}
+
+
+
+
+img{
+    width: 500px;
+    height: 400px;
+    display: inline-flex;
+
+}
+.im{
+    border: 400px;
+    width:10px ;
+    margin: 16px;
+    padding: 16 px;
+    display: inline-block;
+    border: 5px solid;
+}
+.image{
+    width: 100%;
+}
+/*#bible-colums{
+    columns: 3;
+}
+   
+  
+
+
+
+
