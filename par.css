@@ -1,0 +1,13 @@
+.card{
+    border: 5px solid green;
+    width: 50px;
+    margin: 30px;
+    width: 60px; ;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;/*space-between:pour mettre mm espace entre element,center pour mettre les element au centre,space-evenly espace entre element et le bordure sont egaux*/
+    align-items:  ;/* les element vont prendr la taille d'un element le plus grand se proprietes start,end,center, */
+    gap: 10px;/*espace entre les elements */
+}
